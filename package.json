@@ -1,0 +1,23 @@
+{
+  "name": "i18n-gpt",
+  "version": "1.0.0",
+  "description": "Use ChatGPT to internationalize",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chatgpt",
+    "i18n",
+    "l10n"
+  ],
+  "author": "Joe Blau (josephblau@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "openai": "^4.15.0"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
