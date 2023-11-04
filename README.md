@@ -16,4 +16,14 @@ npm install
 node index.js --file <path-to-input> --codes <language-codes-comma-separated>
 ```
 
+## File format
+
+An example of an input file
+
+```
+"key_1" = "value_translation_1";
+"key_2" = "value_translation_2";
+"key_3" = "value_translation_3";
+```
+
 License: MIT
